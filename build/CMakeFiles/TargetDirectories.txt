@@ -1,5 +1,0 @@
-/home/aun/Documents/visionalgorithms/exercise1/augmented_reality/build/CMakeFiles/rebuild_cache.dir
-/home/aun/Documents/visionalgorithms/exercise1/augmented_reality/build/CMakeFiles/edit_cache.dir
-/home/aun/Documents/visionalgorithms/exercise1/augmented_reality/build/src/CMakeFiles/rebuild_cache.dir
-/home/aun/Documents/visionalgorithms/exercise1/augmented_reality/build/src/CMakeFiles/main.dir
-/home/aun/Documents/visionalgorithms/exercise1/augmented_reality/build/src/CMakeFiles/edit_cache.dir
