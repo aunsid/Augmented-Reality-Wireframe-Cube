@@ -1,5 +1,13 @@
 # Augmented-Reality-Wireframe-Cube
 
+<figure>
+ <img src="./images/wireframe.png" width="480" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+
 
 ## Algorithm
 ```
