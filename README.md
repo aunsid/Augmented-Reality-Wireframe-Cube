@@ -3,7 +3,21 @@
 Drawing a wireframe cube on the intersections checker board using OpenCV, and Eigen in C++.
 
 <figure>
- <img src="./images/wireframe.png" width="480" alt="Combined Image" />
+ <img src="./images/actual.png" width="480" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="./images/estimated.png" width="480" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="./images/difference.png" width="480" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
