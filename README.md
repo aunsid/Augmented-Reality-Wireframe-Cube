@@ -42,4 +42,4 @@ cd ../bin && ./main
 ```
 
 ## Links
-https://youtu.be/vvhorL5e9rs
+https://www.youtube.com/watch?v=TONyea7Yu_8
