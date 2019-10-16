@@ -27,7 +27,7 @@ Drawing a wireframe cube on the intersections checker board using OpenCV, and Ei
 
 * `OpenCV `
 * `CMake`
-* `Eigen3.3
+* `Eigen3.3`
 
 ## Run Instructions
 ```
